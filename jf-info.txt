@@ -4,8 +4,9 @@ JustFix Remastered -  фиксер с открытым исходным кодо
 
 ЧАСТЫЕ ВОПРОСЫ
 
-    Без вирусов? да, это обычный помощник. Исходный код открыт и доступен на гитхаб (https://github.com/okuupie/JustFixRemastered/blob/main/JFRemastered.py)
+    Без вирусов? да, это обычный помощник. исходный код открыт и доступен на гитхаб (https://github.com/okuupie/JustFixRemastered/blob/main/JFRemastered.py)
 
     Какие проблемы решает? устраняет большинство ошибок (около 80%): проблемы с VM модулями, не запускает лаунчер или игру и тд
 
 github url === https://github.com/okuupie/JustFixRemastered/tree/main
+
